@@ -36,10 +36,10 @@ A gameplay **showreel** is included to showcase mechanics, visuals, and overall 
 ---
 
 ## 📁 Project Structure
-├─ Source/ # C++ gameplay systems
-├─ Content/ # Game assets, maps, Blueprints, and materials
-├─ Config/ # Engine and project configuration
-├─ RPG.uproject # Unreal Engine project file
+├─ Source/ # C++ gameplay systems  
+├─ Content/ # Game assets, maps, Blueprints, and materials  
+├─ Config/ # Engine and project configuration  
+├─ RPG.uproject # Unreal Engine project file  
 
 ---
 
